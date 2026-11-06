@@ -1,0 +1,15 @@
+{
+  "fetched_at": "2026-10-09T00:00:00Z",
+  "windows": [
+    {
+      "label": "Session",
+      "used_percent": 20,
+      "resets_at": "2026-10-09T16:14:55+00:00"
+    },
+    {
+      "label": "Weekly",
+      "used_percent": 48,
+      "resets_at": "2026-10-15T12:32:34+00:00"
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+name: usage-hud
+version: 0.1.0
+description: "Codex usage and focused-session statistics in the Hermes Desktop status bar."
+author: "aktogde"
+requires_hermes: ">=0.23.0"
